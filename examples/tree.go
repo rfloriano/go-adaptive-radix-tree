@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	art "github.com/plar/go-adaptive-radix-tree"
+	art "github.com/rfloriano/go-adaptive-radix-tree"
 )
 
 func DumpTree() {

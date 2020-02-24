@@ -227,7 +227,7 @@ DumpNode returns Tree in the human readable format:
 
  import (
 	"fmt"
-	"github.com/plar/go-adaptive-radix-tree"
+	"github.com/rfloriano/go-adaptive-radix-tree"
  )
 
  func main() {
